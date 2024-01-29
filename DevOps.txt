@@ -1,0 +1,40 @@
+Le DevOps est un ensemble de pratiques qui met l'emphase sur l'automatisation des processus entre les équipes de développement, et les équipes en charge du maintien en conditions opérationnelles de l'application développée.
+
+Avantages du DevOps:
+- l'accélération des déploiements applicatifs;
+- la réduction du Time-to-Market, i.e le temps qui sépare le moment de décision de la création d'une fonctionnalité et son arrivée sur le produit final en production.
+
+N.B: La méthodologie DevOps a pour conséquence indirecte de réduire le temps moyen de recouvrement (MTTR) d'un système.
+
+Il existe 5 piliers dans le DevOps :
+- Culture: le DevOps est une affaire de culture d'entreprise entre les dev et les ops, avant d'être un ensemble d'outils ou même de pratiques métier. Il faut que les dev et les ops travaillent ensemble, aient une vision commune, soient tournés vers les mêmes objectifs;
+- Automatisation: tout ce qui peut être automatisé doit l'être ! Ceci se fait par des déploiements programmés et fréquents, des environnements créés à la demande et des tests automatisés;
+- Lean: dans la méthodologie DevOps, concentrez-vous sur la création de valeur et limitez le gaspillage de ressources. Pour cela, utilisez la Value Stream Map pour maîtriser votre chaîne de valeur;
+- Mesure : Afin de tout automatiser et tout optimiser, il faut mesurer tout ce que vous faites. Pour ça, mettez en place les KPI nécessaires pour superviser vos déploiements;
+- Share: Dans le DevOps, les équipes de dev et d'ops partagent des moments et les responsabilités. C'est le cœur de l'objectif du DevOps.
+
+********************* Anti-patterns *********************
+
+1) Silo Dev et silo Ops. Aucune méthodologie DevOps ici, modèle classique ;
+
+2) Silo DevOps. LE piège, créer un troisième silo en essayant de briser les deux autres ;
+
+3) NoOps. Eh non ! Le rôle des ops est encore utile, même s'il évolue ;
+
+4) Equipe transverse outil. Vous passez à côté de plein d'autres aspects du DevOps et... vous créez un troisième silo !
+
+5) Ops dans l'équipe de dev. C'est montrer un manque d'appréciation du travail des ops !
+
+********************* Patterns *********************
+
+1) Collaboration entre dev et ops. La collaboration est la clé pour un bon fonctionnement de l'équipe de production en mode DevOps ; 
+
+2) Dev et équipe Cloud. Une équipe qui s'occupe simplement de fournir l'infrastructure de déploiement. Ceci peut être une étape intermédiaire vers une implémentation plus complète du DevOps ;
+
+3) Service externe. Souvent une solution adaptée aux petites équipes, faire appel à un fournisseur externe d'expertise DevOps peut s'avérer une bonne idée ;
+
+4) Equipe DevOps temporaire. Une équipe DevOps qui n'est présente que le temps de mettre en place les démarches DevOps et former les équipes Dev et Ops aux bonnes pratiques ;
+
+5) Evangélistes DevOps. Proche du pattern précédent, c'est une équipe qui s'occupera uniquement de former les équipes au DevOps ;
+
+6) Collaboration axée sur les conteneurs : les conteneurs permettent de fluidifier le travail entre le développement et la mise en production.
