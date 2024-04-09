@@ -1,0 +1,4 @@
+Comment DNS fonctionne (https://howdns.works/episodes/)
+Pourquoi on a besoin de HTTPS : "Privacy, Integrity and Identification" (https://howhttps.works/)
+Design d'un API: https://www.redhat.com/fr/topics/api/what-is-api-design
+OpenAPI: https://swagger.io/docs/specification/about/
